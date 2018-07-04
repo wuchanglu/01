@@ -1,0 +1,56 @@
+From dcb64ad200367e728c076c1bc0d50f940697443d Mon Sep 17 00:00:00 2001
+From: "SC-201804261133\\Administrator" <1761221407@qq.com>
+Date: Wed, 4 Jul 2018 09:58:42 +0800
+Subject: [PATCH] BUDING
+
+---
+ 0215.txt | 38 +++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 37 insertions(+), 1 deletion(-)
+
+diff --git a/0215.txt b/0215.txt
+index afffc07..9aad9cf 100644
+--- a/0215.txt
++++ b/0215.txt
+@@ -1 +1,37 @@
+-second1
+\ No newline at end of file
++second1
++ASDAS
++SA
++DAS
++DAS
++DAS
++SAD
++AS
++DAS
++CX
++V
++CX
++XCVXCV
++
++VXC 
++V 
++X
++VXC
++ XC 
++X 
++X
++X
++  
++
++
++
++XC VX
++ XC
++VXC 
++X
++ X 
++XC
++ VX
++ C
++VXC
++
++FD 
+-- 
+2.11.1.windows.1
+
